@@ -33,4 +33,25 @@
     <h5>Heading 5</h5>
     <h6>Heading 6</h6>
     
+<a href="index.html">About me</a>           		// <a href="ficheiro que contem outro site / url">Nome que fica azul e como titulo do link</a>
+<a href="about.html"><img src="imagem.jpg"></a>		// agora em vez de voltar a pagina inicial este fica numa imagem fornecida
+<a href="images/20180703190744-rollsafe-meme.jpeg" download>My photo</a>		// Em vez de agora ficar na imagem, este apenas faz download da mesma
+
+<h2 id="section-css">CSS</h2> 				// criou-se uma section que se chama section-css 
+<a href="#section-css">CSS</a>				// cria-se uma ancora na qual se chamara CSS e depois ao clicar automaticamente nos leva para a secção css
+<a href="#">Jump to Top</a>				// no final de uma pagina web para ao clicar voltarmos ao topo da pagina, # significa inicio 
+<a href="https://google.com" target="_blank">Google</a>				// Para adicionar um site externo , depois utiliza-se ( target="_blank" ) -> para abrir a pagina fornecida mas num novo separador
+
+<style>
+        img {
+            width: 200px;
+            height: 200px;
+            object-fit: cover;							// ajusta a foto de modo a que n fique amassada ou mesmo esticada
+        }
+</style>
+
+
+
+
+
 

@@ -1,0 +1,36 @@
+<!DOCTYPE html>  -> Para declarar é um ficheiro html ao browser
+
+<html> -> Opening tag        </html> -> Closing tag
+   
+ <img src="images/image.jpg" alt="">  -> "alt= "  serve para dar uma mensagem caso a imagem de qualquer erro
+ 
+ <p> <p/> -> Paragrafo
+ 
+ <style>						// Serve para usarmos estilo "css" 
+            img {
+                width: 100px;				// largura da imagem 100 pixeis
+                border-radius: 50px			// caso border radius for metade de width, teremos um circulo	
+            	float: left;				// mete a imagem para a esquerda
+                margin-right: 40px;			// desvia o texto por 40 pixeis para direita
+            }
+            .username {					// criou-se uma classe mais para a frente que as regras inseridas aqui so se vao aplicar para os elementos desta mesma classe
+                font-weight: bold;			// tipo de texto , neste caso "negrito"
+            }
+</style>
+
+
+<meta charset ="UTF-8"> -> Representa quase todos os caracteres do mundo
+<meta name ="viewport" content=" "> -> Resolucao de tela, tipo se for num telemovel sera diferente a de um computador, utiliza-se para o site ficar bem em todos os dispositivos
+<meta name="description" content="O gato bolado">
+
+<p>I love <em>gatas</em> !</p>  -> <em> -> é utilizado para meter em "italico" ou para chamar mais a atencao aquele excerto de texto
+<p>I love <strong>gatas</strong> !</p>  -> é utilizado para meter em "negrito" e para chamar a atencao de que aquele excerto de texto é importante
+
+    <h1>Heading 1</h1>
+    <h2>Heading 2</h2>
+    <h3>Heading 3</h3>					//<h...> -> sao cabeçalhos e depedendo do numero a sua importancia diminui e relativamente o tamanho, mas quando se utiliza headings sera para importancia de texto e nao tamanho
+    <h4>Heading 4</h4>					
+    <h5>Heading 5</h5>
+    <h6>Heading 6</h6>
+    
+

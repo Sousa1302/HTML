@@ -1,0 +1,21 @@
+<style>
+       body {                   
+        margin: 0;                      // Espaçamento esterno do objeto em questao
+        padding: 0;                     // Espaçamento interno do objeto em questao
+       }
+
+       header {                         // Seleciona tudo dentro da tag header e aplica as regras fornecidas
+        text-align: center;             // Alinhamento de texto sera no centro da pagina          
+        padding: 20px;                  // ==         
+        background-color: darkcyan;     // Cor de fundo do espaçamento interno sera darkcyan
+       }
+
+       h1 {                             // Seleciona todos os elementos h1 na pagina
+        margin: 0;                      // Atribui um espaçamento esterno de 0
+       }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Courses Available</h1>
+    </header>

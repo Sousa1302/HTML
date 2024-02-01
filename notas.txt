@@ -26,11 +26,21 @@ Tipos de blocos:
 <div> -> É um elemento que representa uma divisão genérica ou um container que é usado para agrupar outros elementos e aplicar estilos a eles.
 
 div ou qualquer elemento:
-. id -> Unico, utilizado para chamar elementos
-. classe -> Pode existir varias, utilizada para estilar ( css ) elementos
+- id -> Unico, utilizado para chamar elementos
+- classe -> Pode existir varias, utilizada para estilar ( css ) elementos
 
+Para definir parametros de um id usamos (#)
 
+#menu a{
+            display: inline-block;
+            width: 20%;
+            background: black;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
 
+// a é de ancora ( links )
 
 <!DOCTYPE html>  -> Para declarar é um ficheiro html ao browser
 

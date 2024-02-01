@@ -4,23 +4,73 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Primeira Aula</title>
+    <!-- Chamada de css -->
+    <!-- Chamada de javascript -->
+    <!-- meta tags para facebook, google , etc -->
+
+    <style>
+        #menu {width: 100%; margin: 0;}
+        #menu a{
+            display: inline-block;
+            width: 20%;
+            background: black;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+
+        #menu a:hover {
+            background: red;
+        }
+
+        .blue {
+            color: aqua;
+        }
+
+        #links a{
+            margin: 40px;
+        }
+
+        #links a.orange{
+            color: orange;
+        }
+    </style>
 </head>
+
 <body>
-    <h1>A nossa primeira aula</h1>
-    <h2>O meu subtitulo</h2>
-    <h3>O meu subsubtitulo</h3>
-    <!-- Existem 6 titulos do h1 ao h6 -->
-    <!-- h significa heading -->
+    <div id="menu">
+        <a href="page1.html" title="Menu 1" target="_self">Menu 1</a>
+        <a href="page2.html" title="Menu 2" target="_self">Menu 2</a>
+        <a href="page3.html" title="Menu 3" target="_self">Menu 3</a>
+        <a href="page4.html" title="Menu 4" target="_self">Menu 4</a>
+    </div>
 
-    <p>O meu paragrafo !</p>
-    <p>Another paragraph !</p>
-    <!-- p significa paragraph -->
+    <div id="titles" style="background: green; color: white;">
+        <h1 class="blue">A nossa primeira aula</h1>
+        <h2 class="blue">O meu subtitulo</h2>
+        <h3 class="blue">O meu subsubtitulo</h3>
+        <!-- Existem 6 titulos do h1 ao h6 -->
+        <!-- h significa heading -->
+    </div>
 
-    <img src="images/andre.jpg" alt="Andre">
-    <!-- img -> image ; src -> source ; alt -> alternate -->
 
-    <a href="https://google.com" title="google" target="_blank">Google Browser</a>
-    <!-- a -> anchor ; href -> Reference (link de um site) ; title -> = alt mas para os sites --> 
-    <!-- target -> para abrir no mesmo separador ou novo separador, neste caso novo separador  (blank -> novo) , (self -> no mesmo separador) -->
+    <div>
+        <p>O meu paragrafo !</p>
+        <p>Another paragraph !</p>
+        <!-- p significa paragraph -->
+
+        <img src="images/H2x1_NSwitch_Minecraft.jpg" alt="Minecraft" width="500">
+        <!-- img -> image ; src -> source ; alt -> alternate -->
+    </div>
+    <!-- div -> division, agrupa outros elementos -->
+
+    <div id="links">
+        <a class="links orange" href="https://youtube.com" title="youtube" target="_blank">YOUTUBE</a>
+        <a class="links orange" href="https://google.com" title="google" target="_blank">Google Browser</a>
+        <!-- a -> anchor ; href -> Reference (link de um site) ; title -> = alt mas para os sites --> 
+        <!-- target -> para abrir no mesmo separador ou novo separador, neste caso novo separador  (blank -> novo) , (self -> no mesmo separador) -->
+    </div>
+
+
 </body>
 </html>

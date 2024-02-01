@@ -1,3 +1,37 @@
+.html -> Estrutura
+.css -> Aparencia
+.js -> Funcionalidades 
+
+index.html -> Home Page
+
+				     Grelhas Responsive  	(Adapta-se ao dispositivo a ser utilizado)
+				     
+-> Criar a vossa personalizada 			OU 		-> Procurar FrameWork Existentes
+									   ( Bootstrap )
+
+
+Framework -> Tem varios varios cenarios / grelhas ja criadas, previstas e programadas 
+
+Container / Bloco -> Elemento que envolve e contém outros elementos HTML. Os containers são usados para estruturar e organizar o conteúdo em uma página da web.
+
+Tipos de blocos:
+-> Div
+-> Span
+
+2 Tipodes de Espaçamentos:
+-> margin ( Sempre para fora - Exterior )
+-> padding ( Sempre para dentro - Interior )
+
+
+<div> -> É um elemento que representa uma divisão genérica ou um container que é usado para agrupar outros elementos e aplicar estilos a eles.
+
+div ou qualquer elemento:
+. id -> Unico, utilizado para chamar elementos
+. classe -> Pode existir varias, utilizada para estilar ( css ) elementos
+
+
+
+
 <!DOCTYPE html>  -> Para declarar é um ficheiro html ao browser
 
 <html> -> Opening tag        </html> -> Closing tag

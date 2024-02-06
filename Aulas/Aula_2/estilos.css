@@ -1,0 +1,42 @@
+#main {
+    width: 900px;
+    background: black;
+    margin: 0 auto;  /* para o div ficar sempre centralizado automaticamente de acordo com a resolucao de cada tela*/
+    padding: 20px 40px;
+    /* padding: 10px 10px 10px 10px; é a mesma cena que fazer padding: 10px */
+    
+    color: white;
+
+}
+
+#main .row{     /* so se usa . no row pq é uma classe */ 
+    padding: 15px;
+    border-bottom:3px solid red;       /* tres parametros: grossura da linha; tipo de linha ; cor da linha */
+    margin-bottom: 30px;
+
+}
+
+#main h2{
+
+}
+
+#main ul{
+    background: white ;
+    color: red;
+    border: 3px solid blue;
+}
+
+
+main ul li{
+    font-size: 14px;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+
+
+
+
+
+
+

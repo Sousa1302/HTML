@@ -9,11 +9,16 @@
 
 }
 
-#main .row{     /* so se usa . no row pq é uma classe */ 
-    padding: 15px;
-    border-bottom:3px solid red;       /* tres parametros: grossura da linha; tipo de linha ; cor da linha */
-    margin-bottom: 30px;
+#main .row {     /* so se usa . no row pq é uma classe */ 
+    width: 100%;
+    /* border-bottom:3px solid red;       /* tres parametros: grossura da linha; tipo de linha ; cor da linha */
+    /*margin-bottom: 30px;*/ 
 
+}
+
+#main .col50 {
+    display: inline-block;
+    width: 49%;
 }
 
 #main h2{

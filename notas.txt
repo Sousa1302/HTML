@@ -22,6 +22,15 @@ Tipos de blocos:
 -> margin ( Sempre para fora - Exterior )
 -> padding ( Sempre para dentro - Interior )
 
+Display : Forma como um elemento se comporta no layout
+
+Display:
+-> Inline ( Widht: auto; ) ; ( na mesma linha ) ; ( So ocupa o espaço necessario na linha , permite varios lado a lado)
+-> Inline-Block ( Suporta varios elementos na mesma linha , permitindo atribuir largura a cada um deles ) ; ( Ex : <img ...> <img ...> ; Layout de varias colunas na mesma linha )
+-> Block ( widht: 100%; ) ; ( largura toda disponivel ) ; ( Nao aceita mais nenhum elemento ao seu lado ) Ex : h1 / h2 / ...
+
+
+
 
 <div> -> É um elemento que representa uma divisão genérica ou um container que é usado para agrupar outros elementos e aplicar estilos a eles.
 

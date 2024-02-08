@@ -1,0 +1,58 @@
+.gato{
+    width: 200px;
+    height: 200px;
+}
+
+#main {
+    width: 2000px;
+    margin: auto;
+}
+
+#menu {width: 100%; margin: 0;}
+        
+#menu a{
+    display: inline-block;
+    width: 20%;
+    background: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+#menu a:hover {
+    background: red;
+}
+
+#main .row{
+    width: 100%;
+}
+
+main .columns{
+    display: inline-block;
+    width: 49%;
+}
+
+.row {
+    width: 100%;
+    margin: 10%;
+}
+
+#main {
+    width: 2000px;
+    margin: auto;
+}
+
+#menu2 {width: 100%; margin: 0;}
+        
+#menu2 a{
+    display: inline-block;
+    width: 20%;
+    background: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+#menu2 a:hover {
+    background: red;
+}

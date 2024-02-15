@@ -1,0 +1,36 @@
+#main img {
+    width: 100;
+    height: 100;
+    display: inline-block;
+}
+
+#main .col50 img {
+    width: 300;
+    height: 300;
+    display: inline-block;
+    margin-left: 200;
+    margin-top: 80;
+}
+
+#main .col50 h2 {
+    display: inline-block;
+    margin-left: 220;
+    margin-top: 40;
+    text-align: left;
+}
+
+#main .col50 p {
+    display: inline-block;
+    margin-top: 20;
+    text-align: left;
+}
+
+#main input {
+    display: inline-block;
+}
+
+#main ul li{
+    width: 100;
+    display: inline-block;
+    margin-left: 300px;
+}

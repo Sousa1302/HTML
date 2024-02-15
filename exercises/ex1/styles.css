@@ -1,0 +1,53 @@
+
+#main {
+    width: auto;
+    margin: 25px;
+}
+
+#menu1 {
+    text-align: center;
+}
+
+#menu1 a{
+    display: inline-block;
+    width: 20%;
+    padding: 20px;
+    text-align: center;
+    background: black;
+    color: white;
+    
+}
+
+#menu1 a:hover{
+    background: red;
+}
+
+
+#menu2 a{
+    display: block;
+    width: 20%;
+    padding: 20px;
+    text-align: center;
+    background: black;
+    color: white;
+    margin-left: 115px;
+}
+
+#menu2 a:hover{
+    background: red;
+}
+
+.text {
+    margin-left: 700px;
+    
+}
+
+#logo img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: 250px;
+}
+
+

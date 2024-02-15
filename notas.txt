@@ -72,6 +72,13 @@ Para definir parametros de um id usamos (#)
 </style>
 
 
+
+Listas:
+-> UL ( Unordered List )
+-> OL ( Ordered List )
+
+
+
 <meta charset ="UTF-8"> -> Representa quase todos os caracteres do mundo
 <meta name ="viewport" content=" "> -> Resolucao de tela, tipo se for num telemovel sera diferente a de um computador, utiliza-se para o site ficar bem em todos os dispositivos
 <meta name="description" content="O gato bolado">

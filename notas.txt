@@ -29,7 +29,8 @@ Display:
 -> Inline-Block ( Suporta varios elementos na mesma linha , permitindo atribuir largura a cada um deles ) ; ( Ex : <img ...> <img ...> ; Layout de varias colunas na mesma linha )
 -> Block ( widht: 100%; ) ; ( largura toda disponivel ) ; ( Nao aceita mais nenhum elemento ao seu lado ) Ex : h1 / h2 / ...
 
-
+GET: url (link) , algo publico passa pelo link
+POST: servidor , algo privado como digitar uma palavra passe num site 
 
 
 <div> -> É um elemento que representa uma divisão genérica ou um container que é usado para agrupar outros elementos e aplicar estilos a eles.

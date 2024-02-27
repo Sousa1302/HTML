@@ -1,0 +1,18 @@
+#main {
+    width: 1080px;
+}
+
+.col30 {
+    display: inline-block;
+    width: 30%;
+}
+
+.col68 {
+    display: inline-block;
+    width: 68%;
+}
+
+#main .col30 img {
+    width: 100px;
+    height: 100px;
+}

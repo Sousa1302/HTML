@@ -29,15 +29,40 @@ Display:
 -> Inline-Block ( Suporta varios elementos na mesma linha , permitindo atribuir largura a cada um deles ) ; ( Ex : <img ...> <img ...> ; Layout de varias colunas na mesma linha )
 -> Block ( widht: 100%; ) ; ( largura toda disponivel ) ; ( Nao aceita mais nenhum elemento ao seu lado ) Ex : h1 / h2 / ...
 
-GET: url (link) , algo publico passa pelo link
-POST: servidor , algo privado como digitar uma palavra passe num site 
-
-
 <div> -> É um elemento que representa uma divisão genérica ou um container que é usado para agrupar outros elementos e aplicar estilos a eles.
 
 div ou qualquer elemento:
 - id -> Unico, utilizado para chamar elementos
 - classe -> Pode existir varias, utilizada para estilar ( css ) elementos
+
+
+											FORMS
+											
+<form action="ficheiro" method="get / post" name="nome"> </form>		// Estes 3 parametros sao obrigatorios
+
+action -> ficheiro no servidor que ira tratar a informacao submetida. Ex: form.php ( ficheiro recebe os dados do form e regista na base de dados )
+name -> nome do form que irá servir para identificar o form no PHP ( exemplo )
+method -> GET / POST ; 
+
+	
+
+GET: url (link) , algo publico passa pelo link -> A informacao é enviada em variaveis atraves de url ( Modo sem segurança, permite partilhar ) EX: Pesquisa de Google 
+POST: servidor , algo privado como digitar uma palavra passe num site -> A informação é enviada encriptada pelo servidor ( Modo com segurança ) EX: Formulario de registo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Para definir parametros de um id usamos (#)
 

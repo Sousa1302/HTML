@@ -1,9 +1,16 @@
-#main .col55 form {
-    display: inline-block;
+#main {
+    width: 1080px;
+    margin: 0 auto;
     
 }
 
-#main .col45 form {
+#main .col1{
     display: inline-block;
+    width: 49%;
+}
+
+#main .col2{
+    display: inline-block;
+    width: 49%;
 }
 

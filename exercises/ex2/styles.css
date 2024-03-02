@@ -1,0 +1,33 @@
+#main {
+    width: 1080px;
+    
+}
+
+.col30{
+    display: inline-block;
+    width: 30%;
+
+}
+
+.col68{
+    display: inline-block;
+    width: 68%;
+}
+
+.col68 form {
+    width: 300px;
+    margin-left: 1280px;
+    
+}
+
+.col30 img{
+    margin-top: 60px;
+    margin-left: 100px;
+}
+
+.col100 ul li {
+    margin-top: 150px;
+    margin-left: 300px;
+    display: inline-block;
+    width: ;
+}

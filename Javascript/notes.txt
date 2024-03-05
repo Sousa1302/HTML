@@ -1,0 +1,36 @@
+Framework JS -> Manipulação do DOM 
+
+O javescript corre em Client-Side
+
+CDN -> Servidores que alojam frameworks
+
+// let para inicializar uma variavel 
+
+let marca = "ford";
+let ano = 2024;
+let altura = 1.90;
+let pergunta = false;
+
+3 etapas de desenvolvimento:
+-> Development
+-> Staging
+-> Production
+
+$( elemento ) -> Para selecionar um elemento, ( ficheiro ) ,  em jquery
+$( "body" ) -> Para selecionar um elemento, ( elemento de html ) ,  em jquery
+$( ".row" ) -> Para selecionar um elemento, ( classe de html ) ,  em jquery
+$( "#main" ) -> Para selecionar um elemento, ( id de html ) ,  em jquery
+
+EVENTS:
+-> hover ( quando passamos com o rato por cima do elemento )
+-> focus ( o elemento que esta em foco / selecionado )
+-> click ( quando se clica num campo ) 
+-> acive ( quando o campo esta ativo )
+
+
+
+
+
+
+
+

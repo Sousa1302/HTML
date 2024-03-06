@@ -3,3 +3,26 @@
     background: green;
     color: white;
 }
+
+#loader {
+    position: fixed;                    /* Posicionamento fixo relativo ao browser */
+    top: 50%;                           /* Do topo 50% pa centralizar no site */
+    left: 50%;                          /* Da esquerda 50% pa centralizar no site */
+    margin-left: -175px;                /* metade da largura pa centralizar  */
+    margin-top: -100px;                 /* metade da altura pa centralizar */
+    line-height: 200px;                 /* altura da linha */
+    width: 350px;   
+    height: 200px;
+    text-align: center;                 /* Alinhamento horizontal do texto */
+    vertical-align: middle;             /* Alinhamento vertical do texto */
+    background: lightblue;            /* cor de fundo */
+    border: 1px solid darkblue;       /*  bordas */
+    font-size: 18px;                    /* tamanho de letra */
+    font-weight: bold;                  /* letra a negrito */
+}
+
+#loader .close {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}

@@ -27,7 +27,7 @@ EVENTS:
 -> click ( quando se clica num campo ) 
 -> acive ( quando o campo esta ativo )
 
-
+Callback : Funcao que é chamada na conclusao de outra funcao. Ex: fadeIn();
 
 
 

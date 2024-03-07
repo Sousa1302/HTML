@@ -29,7 +29,10 @@ EVENTS:
 
 Callback : Funcao que é chamada na conclusao de outra funcao. Ex: fadeIn();
 
-
+Acordion Tags HTML:
+-> dl ( Definition List )
+    |--> dt ( Definition Title )
+    |--> dd ( Definition Description )
 
 
 

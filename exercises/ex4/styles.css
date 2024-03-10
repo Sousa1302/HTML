@@ -1,0 +1,29 @@
+#main {
+    width: 1080px;
+}
+
+.row_1 .col100 img {
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+}
+
+.row_1 .col100 input {
+    display: inline-block;
+    margin-left: 1600px;
+}
+
+.col25 ul li {
+    display: inline-block;
+    width: 20%;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.col25 ul li a {
+    margin-left: 300px;
+}
+
+
+
+

@@ -1,3 +1,11 @@
 .col3 {
     padding: 15px;
 }
+
+.wrong + label {
+    color: red;
+}
+
+.correct + label {
+    color: greenyellow;
+}

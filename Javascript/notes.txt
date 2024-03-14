@@ -36,4 +36,10 @@ Acordion Tags HTML:
 
 
 
+var perfil = Array{
+  "username" : "xpto",
+  "password" : "1304",
+  "email"    : "email@gmail.com"
+};
 
+console.log( perfil["email"] ); // output -> email@gmail.com

@@ -1,0 +1,41 @@
+.col40 {
+    display: inline-block;
+    width: 39%;
+}
+
+.col60 {
+    display: inline-block;
+    width: 60%;
+}
+
+.col40 img {
+    width: 300px;
+    height: 300px;
+    float: left;
+}
+
+.col60 form {
+    float: right;
+    
+}
+
+.col70 {
+    display: inline-block;
+    width: 69%;
+}
+
+.col70 img {
+    width: 400px;
+    height: 400px;
+    float: right;
+}
+
+.col30 {
+    display: block;
+    width: 30%;
+}
+
+.col30 .ul_2 li a{
+    width: 100%;
+    position: relative;
+}

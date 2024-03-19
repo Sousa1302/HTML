@@ -1,0 +1,60 @@
+body {
+    background: lightgray;
+    padding: 0;
+    margin: 0;
+}
+#main {
+    width: 1080px;
+    margin: 0 auto;
+    background: white;
+    padding: 15px 25px;
+}
+#header .logo img {
+    display: block;
+    width: 100%
+}
+#header .col61 {
+    text-align: right;
+}
+.col37 {
+    display: inline-block;
+    width: 37%;
+    vertical-align: top;
+}
+.col61 {
+    display: inline-block;
+    width: 61%;
+}
+#menu {
+    margin: 40px 50px 0 0;
+    list-style: none;
+    padding: 0;
+}
+#menu a {
+    display: block;
+    padding: 10px;
+    background: darkblue;
+    color: white;
+    text-align: center;
+}
+#menu a:hover {
+    background: black;
+}
+.col33 {
+    display: inline-block;
+    width: 31%;
+}
+.col33 a {
+    display: block;
+    padding: 10px;
+}
+.col33 a:hover {
+    background: lightgray;
+}
+.col33 img {
+    display: block;
+    width: 100%;
+}
+#footer .col61 {
+    text-align: right;
+}

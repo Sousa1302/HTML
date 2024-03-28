@@ -1,0 +1,77 @@
+#main {
+    background-color: #e3e3e3;
+}
+
+.row .col100 {
+    display: flex;
+    justify-content: center;
+}
+
+.row .col100 ul {
+    text-align: center;
+    list-style: none;
+}
+
+.row .col100 li{
+    display: inline-block;
+    margin: 0 0px;
+    vertical-align: top;
+    
+}
+
+.row .col100 a {
+    font-weight: bold;
+    color: darkblue;
+    padding: 50px 25px;
+}
+
+.row .school {
+    position: relative;
+    height: 1080px;
+}
+
+#bigimg{
+    position: absolute;
+    width: 2065px;
+    height: 1080px;
+    border: solid 4px darkblue ;
+}
+
+#entalogo{
+   position: absolute;
+   top: 50;
+   left: 140;
+   width: 600px;
+   height: 300px;
+}
+
+#entalogo{
+    z-index: 1;
+}
+
+.row .professionalform h1 {
+    margin: 70px 0 20px 0;
+    font-weight: bold;
+    text-align: center;
+    font-size: 45px;
+    color: #f95959;
+}
+
+.row .professionalform img {
+    display: block;
+    margin: 0 auto;
+}
+
+.rowcursos {
+    background-color: #455d7a;
+}
+
+.rowcursos h2 {
+    font-size: 35px;
+    font-weight: bold;
+    color: #f95959;
+}
+
+
+
+

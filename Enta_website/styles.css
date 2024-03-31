@@ -1,5 +1,6 @@
 #main {
     background-color: #e3e3e3;
+    
 }
 
 .row .col100 {
@@ -32,17 +33,17 @@
 
 #bigimg{
     position: absolute;
-    width: 2065px;
-    height: 1080px;
+    width: 2048px;
+    height: 872px;
     border: solid 4px darkblue ;
 }
 
 #entalogo{
    position: absolute;
    top: 50;
-   left: 140;
-   width: 600px;
-   height: 300px;
+   left: 100;
+   width: 742px;
+   height: 266px;
 }
 
 #entalogo{
@@ -50,7 +51,7 @@
 }
 
 .row .professionalform h1 {
-    margin: 70px 0 20px 0;
+    margin: 0 0 20px 0;
     font-weight: bold;
     text-align: center;
     font-size: 45px;
@@ -98,9 +99,26 @@
     margin: 80px 110px;
 }
 
+.rowcursos .cursos4 a {
+    display: inline-block;
+}
+
 .rowcursos .cursos4 img{
     display: inline-block;
 }
+
+#a1 {
+    padding: 20 210;
+}
+
+#a2 {
+    padding: 20 265;
+}
+
+#a3 {
+    padding: 20 185;
+}
+
 
 #TIS {
     width: 450px;
@@ -144,12 +162,64 @@
 
 #TL {
     width: 450px;
-    margin: 80 0 0 270px;
+    margin: 80 0 0 525px;
     border: solid 4px darkblue;
 }
 
 #TC {
     width: 450px;
-    margin: 80 0 0 535px;
+    margin: 80 0 0 275px;
     border: solid 4px darkblue;
 }
+
+.rowcursos .cursos5 a {
+    display: inline-block;
+}
+
+#a4 {
+    padding: 20 375;
+    display: inline-block;
+}
+
+#a5 {
+    padding: 20 350;
+}
+
+#a6 {
+    font-size: 24px;
+    padding: 70 370;
+}
+
+.contacts {
+    background-color: #233142;
+}
+
+.contacts h2 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    color: #f95959;
+    padding: 60 0 20 0;
+}
+
+.contacts p {
+    display: block;
+    text-align: center;
+    color: #e3e3e3;
+}
+
+#p2 {
+    padding: 50 0 50 0;
+}
+
+#email {
+    padding: 30 0 30 0;
+}
+
+
+
+
+
+
+
+

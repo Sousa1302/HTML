@@ -31,10 +31,10 @@
 }
 
 #bigimg{
-    margin: 0 100;
+    margin: 0 0;
     display: flex;
     position: absolute;
-    width: 1690;
+    width: 2048;
     height: 872;
     border: solid 4px darkblue ;
 }
@@ -113,11 +113,11 @@
 }
 
 #a2 {
-    margin: 20 190;
+    margin: 20 275 0 180;
 }
 
 #a3 {
-    padding: 20 190;
+    margin: 20 100;
 }
 
 
@@ -135,7 +135,7 @@
 
 #TLO {
     width: 350;
-    margin: 0 130 0 130;
+    margin: 0 0 0 130;
     border: solid 4px darkblue;
 }
 

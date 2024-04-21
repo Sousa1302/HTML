@@ -33,7 +33,7 @@
 #bigimg{
     margin: 0 100;
     display: flex;
-    position: absolute;
+    position: absolute; 
     width: 1690;
     height: 872;
     border: solid 4px darkblue ;

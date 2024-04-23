@@ -33,8 +33,13 @@
 #bigimg{
     margin: 0 0;
     display: flex;
+<<<<<<< HEAD
     position: absolute;
     width: 2048;
+=======
+    position: absolute; 
+    width: 1690;
+>>>>>>> 571307c9fb40f7c21e2531c9eb0989441427d094
     height: 872;
     border: solid 4px darkblue ;
 }

@@ -1,0 +1,129 @@
+body {
+    background: black;
+}
+
+.row {
+    width: 100%;
+    
+}
+
+#paragraph {
+    display: inline-block;
+    color: whitesmoke;
+    width: 100%;
+    margin: 5% 0%;
+    
+    border: 2px solid palevioletred;
+}
+
+#tv {
+    display: inline-block;
+    color: whitesmoke;
+    margin: 5% 37%;
+    border: 4px solid darkblue;
+}
+
+#paragraph p {
+    text-align: center;
+}
+
+.row h1 {
+    color: whitesmoke;
+    text-align: center;
+    margin: 3% 0 3% 0;
+}
+
+.row .images {
+    display: inline-block;
+}
+
+#alexg {
+    width: 13%;
+    margin: 0 0 0 4%;
+}
+
+#cupids {
+    width: 13%;
+}
+
+#gorillaz {
+    width: 13%;
+}
+
+#radiohead {
+    width: 13%;
+   
+}
+
+#thesmiths {
+    width: 13%;
+    
+}
+
+#tvgirl_1 {
+    width: 13%;
+    margin: 0 0 0 4%;
+}
+
+#tvgirl_2 {
+    width: 13%;
+}
+
+#tvgirl_3 {
+    width: 13%;
+    margin: 0 0 0 4%;
+}
+
+#blink182 {
+    width: 13%;
+}
+
+#boa {
+    width: 13%;
+}
+
+#deftones_1 {
+    width: 13%;
+}
+
+#deftones_2 {
+    width: 13%;
+}
+
+#mac_1 {
+    width: 13%;
+}
+
+#mac_2 {
+    width: 13%;
+}
+
+#mac_3 {
+    width: 13%;
+}
+
+#mac_4 {
+    width: 13%;
+}
+
+#mfdoom_1 {
+    width: 13%;
+    margin: 0 0 0 0;
+}
+
+
+#tyler_1 {
+    width: 13%;
+}
+
+#tyler_2 {
+    width: 13%;
+}
+#tyler_3 {
+    width: 13%;
+}
+
+#thesmiths_2 {
+    width: 13%;
+}
+

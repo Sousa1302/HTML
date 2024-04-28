@@ -1,0 +1,91 @@
+.col30 {
+    display: inline-block;
+    width: 35%;
+}
+
+.col30 img{
+    width: 30%;
+    height: 30%;
+}
+
+.col60 {
+    display: inline-block;
+    width: 63%;
+}
+
+.inputs {
+    margin: 0 0 0 80%;
+}
+
+.col100 {
+    width: 100%;
+    display: inline-block;
+}
+
+.col100 ol li{
+    display: inline-block;
+    margin: 5% 8% 5% 8%;
+    padding: 2%;
+}
+
+.col35 {
+    width: 35%;
+    display: inline-block;
+}
+
+.col35 h3 {
+    margin: 10% 0% 4% 25%;
+}
+
+.col35 ul li{
+    margin: 10% 0% 4% 33%;
+}
+
+.col65 {
+    width: 62%;
+    display: inline-block;
+}
+
+.col65 img {
+    width: 50%;
+    height: 20%;
+    margin: 0 0 0 20%;
+}
+
+.col65 h2 {
+    margin: 4% 0 0 30%;
+}
+
+.imgs {
+    display: inline-block;
+    width: 100%;
+}
+
+.img {
+    width: 30%;
+    display: inline-block;
+}
+
+.img img{
+    display: inline-block;
+    width: 40%;
+    margin: 10% 5% 0% 25%;
+}
+
+.col50 {
+    display: inline-block;
+    width: 50%;
+}
+
+.col50{
+    margin: 10% 0 0 0;
+}
+
+.col49{
+    display: inline-block;
+    width: 48%;
+}
+
+.col49 a{
+    margin: 10% 0% 0% 90%;
+}

@@ -1,0 +1,101 @@
+.col51 {
+    width: 51%;
+    display: inline-block;
+}
+
+.col51 img {
+    width: 30%;
+    margin: 4% 0 0 4%;
+}
+
+.col49 {
+    width: 48%;
+    display: inline-block;
+}
+
+.inputs{
+    margin: 0 0 0 70%;
+}
+
+.col100 {
+    width: 100%;
+    display: inline-block;
+}
+
+.col100 ul li {
+    display: inline-block;
+    margin: 7% 0 0 0;
+    padding: 2% 10% 2% 10%;
+    border: solid crimson;
+}
+
+.col35 {
+    width: 35%;
+    display: inline-block;
+}
+
+.col35 h2 {
+    margin: 0 0 0 33%;
+} 
+
+.col35 ol li {
+    width: 80%;
+    margin: 4% 0 0 0;
+    padding: 2% 0% 2% 0%;
+    border: solid crimson;
+    text-align: center;
+}
+
+.col65 {
+    width: 63%;
+    display: inline-block;
+}
+
+.col65 img {
+    width: 30%;
+    margin: 5% 20% 0 30%;
+}
+
+.col65 h3 {
+    margin: 2% 0 0 33%;
+}
+
+.imgs {
+    display: inline-block;
+    width: 100%;
+}
+
+.col33 {
+    width: 30%;
+    display: inline-block;
+}
+
+.col33 img{
+    display: inline-block;
+    width: 40%;
+    margin: 10% 5% 0% 25%;
+}
+
+.col33 p {
+    margin: 5% 5% 0% 40%;
+}
+
+.col40 {
+    display: inline-block;
+    width: 40%;
+}
+
+.col40 p {
+    margin: 10% 0 0 10%;
+}
+
+.col60 {
+    display: inline-block;
+    width: 58%;
+}
+
+.col60 a {
+    margin: 0 0 0 90%;
+}
+
+

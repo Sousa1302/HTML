@@ -1,0 +1,48 @@
+.simulador {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.image-container img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #ddd;
+}
+
+.color-selector {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.color-selector dd {
+    margin: 0 10px;
+    cursor: pointer;
+}
+
+.color-circle {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 1px solid #ddd;
+    transition: transform 0.3s ease;
+}
+
+.color-circle.blue {
+    background-color: blue;
+}
+
+.color-circle.red {
+    background-color: red;
+}
+
+.color-circle.green {
+    background-color: green;
+}
+
+.color-circle.yellow {
+    background-color: yellow;
+}
+
+
+

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="jquery.js" type="text/Javascript"></script>
+    <script src="main.js" type="text/Javascript"></script>   
+    <title>Image Switcher</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="simulador">
+        <div class="title">
+            <h1>Simulador</h1>
+            <h2>Versao: <span></span></h2>
+        </div>
+        <div class="image-container">
+            <img id="mainImage" src="images/default.jpeg" alt="Imagem principal">
+            <img class="color-image" id="blueImage" src="images/blue.jpg" alt="Imagem azul" style="display: none;">
+            <img class="color-image" id="redImage" src="images/red.png" alt="Imagem vermelha" style="display: none;">
+            <img class="color-image" id="greenImage" src="images/green.png" alt="Imagem verde" style="display: none;">
+            <img class="color-image" id="yellowImage" src="images/yellow.jpg" alt="Imagem amarela" style="display: none;">
+        </div>
+        <dl class="color-selector">
+            <dd>
+                <div class="color-circle blue img" data-img="blueImage">
+                    <h4>Azul</h4>
+                </div>
+            </dd>
+            <dd>
+                <div class="color-circle red img" data-img="redImage">
+                    <h4>Vermelho</h4>
+                </div>
+            </dd>
+            <dd>
+                <div class="color-circle green img" data-img="greenImage">
+                    <h4>Verde</h4>
+                </div>
+            </dd>
+            <dd>
+                <div class="color-circle yellow img" data-img="yellowImage">
+                    <h4>Amarelo</h4>
+                </div>
+            </dd>
+        </dl>
+    </div>
+</body>
+</html>

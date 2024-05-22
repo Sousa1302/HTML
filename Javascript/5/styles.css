@@ -1,0 +1,45 @@
+dl {
+    margin-bottom: 30px;
+    border-bottom: 1px solid darkgrey;
+}
+
+dl dt {
+    position: relative;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 24px;
+}
+
+dl dt:after{
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 15px;
+    content: "+";
+    font-size: 20px;
+}
+
+dl.open dt:after{
+    content: "-";
+}
+
+dl dd {
+    padding: 10px 0;
+    font-size: 14px;
+}
+
+img {
+    width: 35%;
+    position: absolute;
+    bottom: 50px;
+    right: 50px;
+}
+
+
+
+
+
+
+
+
+
